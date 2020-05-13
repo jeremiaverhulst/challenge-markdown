@@ -4,7 +4,9 @@
 
 ![Jeremia](https://cutt.ly/symdS6J)
 
+--- 
 ## Kind by heart, coffee addict by choice
+---
 
 |          |            |
 | -------- | ---------- |
@@ -12,8 +14,9 @@
 | Gender   | Male       |
 | Favorite color | Blue |
 | Favorite food | Italian |
-| Pinneapple on pizza | <ul><li>[x] No Way</li><li>[ ] Heck Yes</li></ul>
-this should work |
+| Pinneapple on pizza | <ul><li>[x] Of course!</li><li>[ ] No, thank you</li></ul> |
+
+---
 
 ### Hobbies
 * Reading
@@ -25,14 +28,22 @@ this should work |
     * Doctor Who
     * MCU & DCEU
 
+---
+
 #### You can always count on me when
 * you're in need of some motivation or feeling a little blue
 * you need a coffee bar buddy or want to have a drink
 
-#####  A funny story
+--- 
 
+#####  A funny story
+Still don't know how, but once I forgot my backpack at a busstop. Police brought it home afterwards. I wasn't home fortunately, since my mom told me they wanted to give me a lecture.
+
+---
 
 ###### TL;DR
 Don't forget your backpack.
 
-<< [previous](https://www.google.com) || JEREMIA VERHULST || [next](https:www.youtube.com) >>
+---
+
+<< [previous](https://www.google.com) || JEREMIA VERHULST || [next](https://www.youtube.com) >>
