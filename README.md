@@ -14,7 +14,7 @@
 | Gender   | Male       |
 | Favorite color | Blue |
 | Favorite food | Italian |
-| Pinneapple on pizza | <ul><li>[x] Of course!</li><li>[ ] No, thank you</li></ul> |
+| Pinneapple on pizza | <ul><li>[ ] Of course!</li><li>[x] No, thank you</li></ul> |
 
 ---
 
