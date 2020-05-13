@@ -12,7 +12,8 @@
 | Gender   | Male       |
 | Favorite color | Blue |
 | Favorite food | Italian |
-| Pinneapple on pizza | - [ ] yes - [x] no |
+| Pinneapple on pizza | <ul><li>[x] No Way</li><li>[ ] Heck Yes</li></ul>
+this should work |
 
 ### Hobbies
 * Reading
@@ -34,3 +35,4 @@
 ###### TL;DR
 Don't forget your backpack.
 
+<< [previous](https://www.google.com) || JEREMIA VERHULST || [next](https:www.youtube.com) >>
