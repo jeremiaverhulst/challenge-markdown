@@ -12,7 +12,7 @@
 | Gender   | Male       |
 | Favorite color | Blue |
 | Favorite food | Italian |
-| Pinneapple on pizza | [] yes [x] no |
+| Pinneapple on pizza | - [ ] yes - [x] no |
 
 ### Hobbies
 * Reading
