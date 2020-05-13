@@ -10,7 +10,7 @@
 
 |          |            |
 | -------- | ---------- |
-| Birthday | 04/11/1995 |
+| Birthday | 04/11 |
 | Gender   | Male       |
 | Favorite color | Blue |
 | Favorite food | Italian |
